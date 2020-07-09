@@ -1,4 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Daniel O'Brien! 👋
+
+I'm a software developer from Toronto, Canada! My pronouns are he/him!
+
+What sort of work do I do?
+
+- 👨‍💻 Backend and frontend development.
+- 🌱 Team management and technical leadership.
+- 🐋 Scalability and systems architecture.
+- 🤔 API architecture and design.
+
+I'm currently working on...
+
+- 🧪 Elixir stuff at work.
+- 🐹 Go API client design.
+- 🤖 OpenAPI spec generators.
+- 🐹 Go + React/Svelte/Vue/Angular rapid development and deployment.
 
 <!--
 **dobs/dobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
