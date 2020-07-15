@@ -14,7 +14,7 @@ I'm currently working on...
 - 🧪 Elixir stuff at work.
 - 🐹 Go API client design.
 - 🤖 OpenAPI spec generators.
-- 🐹 Go + React/Svelte/Vue/Angular rapid development and deployment.
+- 🧭 Go + React/Svelte/Vue/Angular rapid development and deployment.
 
 <!--
 **dobs/dobs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
