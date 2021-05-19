@@ -13,7 +13,6 @@ I'm currently working on...
 
 - 🧪 Elixir stuff at work.
 - 🐹 Go API client design.
-- 🤖 OpenAPI spec generators.
 - 🧭 Go + React/Svelte rapid development and deployment.
 - 🎞 Simplified React-based presentation tooling.
 
