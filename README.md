@@ -11,7 +11,7 @@ What sort of work do I do?
 
 I'm currently working on...
 
-- 🧪 Elixir stuff at work.
+- 💎 Ruby and Java stuff at work.
 - 🐹 Go API client design.
 - 🧭 Go + React/Svelte rapid development and deployment.
 - 🎞 Simplified React-based presentation tooling.
